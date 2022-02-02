@@ -6,9 +6,13 @@ You can choose spoken words or cw sound.
 It have 5 levels and 540 lections.
 
 1 Level 55 lessons Absolute Beginner 
+
 2 Level 80 lessons Beginner 
+
 3 Level 50 lessons Intermediate
+
 4 Level 50 lessons Upper Intermediate
+
 5 Level 35 lessons Advanced
 
 Each lesson have a word and a phrases lection.
