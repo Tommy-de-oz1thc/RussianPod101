@@ -14,5 +14,7 @@ It have 5 levels and 540 lections.
 Each lesson have a word and a phrases lection.
 
 The program switch between english and russian words or phrases and you have to pick an answer in the other langauge.
-For words you have to answer 30/50 correct to upgrade, and for phrases you have to answer 15/50 correct to upgrade.
+
+For words you have to answer 30/50 correct to upgrade, 
+and for phrases you have to answer 15/50 correct to upgrade.
 If you do not pass it will just repeat the lection.
